@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recipe_book/static/css/main.ea3291a2.chunk.css",
+    "main.js": "/recipe_book/static/js/main.5f04b39c.chunk.js",
+    "main.js.map": "/recipe_book/static/js/main.5f04b39c.chunk.js.map",
+    "runtime~main.js": "/recipe_book/static/js/runtime~main.6f3c7684.js",
+    "runtime~main.js.map": "/recipe_book/static/js/runtime~main.6f3c7684.js.map",
+    "static/css/2.eac1ab5b.chunk.css": "/recipe_book/static/css/2.eac1ab5b.chunk.css",
+    "static/js/2.ef7267a5.chunk.js": "/recipe_book/static/js/2.ef7267a5.chunk.js",
+    "static/js/2.ef7267a5.chunk.js.map": "/recipe_book/static/js/2.ef7267a5.chunk.js.map",
+    "index.html": "/recipe_book/index.html",
+    "precache-manifest.b939c64d3168deca7e9c45232fdd2517.js": "/recipe_book/precache-manifest.b939c64d3168deca7e9c45232fdd2517.js",
+    "service-worker.js": "/recipe_book/service-worker.js",
+    "static/css/2.eac1ab5b.chunk.css.map": "/recipe_book/static/css/2.eac1ab5b.chunk.css.map",
+    "static/css/main.ea3291a2.chunk.css.map": "/recipe_book/static/css/main.ea3291a2.chunk.css.map",
+    "static/media/font-awesome.min.css": "/recipe_book/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
